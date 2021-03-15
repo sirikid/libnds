@@ -30,7 +30,7 @@ distribution.
 #include <nds/arm9/video.h>
 #include <nds/arm9/background.h>
 #include <nds/debug.h>
-#include <default_font_bin.h>
+#include <default_font.bin.h>
 
 #include <stdio.h>
 #include <stdarg.h>

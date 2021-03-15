@@ -1,0 +1,3 @@
+SUBDIRS = arm7 arm9
+
+ACLOCAL_AMFLAGS = -I m4
